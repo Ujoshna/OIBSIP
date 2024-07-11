@@ -12,10 +12,8 @@ Internship Type - Work from Home
 
 # LIST OF PROJECTS I WORKED ON
 
-# Project Title: EDA on Retail Sales Data
+Task-1: Project Title: EDA on Retail Sales Data
 
+Task-2: Project Title: Customer Segmentation
 
-# Project Title: Customer Segmentation
-
-
-# Project Title: Predicting House Prices with Linear Regression
+Task-3:Project Title: Predicting House Prices with Linear Regression
